@@ -21,4 +21,4 @@ the purpose of this R Script is two-fold
      created and closed, created using data since inception
     * the MTBF is a probability density function which calculates a cummulative value for the last 52 weeks, the density
       is the (number of defects per work week) / (hours per work week)
-2) Manipulate the JIRA export data to a form acceptable by the SFRAT, https://sasdlc.org/lab/projects/srt.html
+2) Manipulate the JIRA export data to a form acceptable by the SFRAT, https://sasdlc.org/lab/projects/srt.html,     https://github.com/LanceFiondella/srt.core
